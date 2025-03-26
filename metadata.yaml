@@ -1,11 +1,16 @@
 _repo: La-morta-b-Quadro-dramatich_75579
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75579-h/images/cover.jpg
 creator:
   author:
     agent_name: Crehuet, Pompeu
     gutenberg_agent_id: '58057'
     url: http://www.gutenberg.org/2009/agents/58057
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75579#La-morta-b-Quadro-dramatich
 gutenberg_issued: '2025-03-10'
 gutenberg_type: Text
 identifiers:
